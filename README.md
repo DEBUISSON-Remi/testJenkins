@@ -1,5 +1,3 @@
 # testJenkins
 testJenkins
 
-
-maj
